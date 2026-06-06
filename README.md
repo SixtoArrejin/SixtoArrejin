@@ -68,7 +68,7 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=SixtoArrejin&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Sixto" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SixtoArrejin&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Sixto" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SixtoArrejin&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
 </p>
 
