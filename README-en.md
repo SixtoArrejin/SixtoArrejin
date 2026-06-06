@@ -1,27 +1,27 @@
 <p align="center">
-  <b>Español 🇪🇸</b> | <a href="./README-en.md">English 🇺🇸</a>
+  <a href="./README.md">Español 🇪🇸</a> | <b>English 🇺🇸</b>
 </p>
 
 # Sixto Feliciano Arrejin
 
 <img src="./assets/profile-lofi.png" align="right" width="280" alt="Sixto Feliciano Arrejin Lofi Pixel Art" />
 
-### 👋 ¡Hola! Soy Sixto Feliciano Arrejin
-**Desarrollador Full Stack & Ingeniero en Sistemas de Información**
+### 👋 Hi there! I'm Sixto Feliciano Arrejin
+**Full Stack Developer & Information Systems Engineer**
 
-Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el desarrollo dentro del ecosistema de **JavaScript** y **TypeScript** (tanto para entornos web como mobile), en el modelado de bases de datos relacionales y en la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
+I am a Full Stack Developer with over 3 years of experience designing and building web and mobile solutions. I specialize in the **JavaScript** and **TypeScript** ecosystem (both for web and mobile environments), relational database modeling, and adopting DevOps practices to build efficient, secure, and scalable architectures.
 
-Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el fortalecimiento de la cultura DevOps.
+I am passionate about product development, optimizing CI/CD workflows, and strengthening DevOps culture.
 
-📍 **Corrientes, Argentina** | 💼 Disponible para trabajo remoto
+📍 **Corrientes, Argentina** | 💼 Available for remote work
 
 <p>
   <a href="https://linkedin.com/in/sixto-arrejin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sixto-arrejin.vercel.app/es" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=flat-square&logo=briefcase&logoColor=white" alt="Portafolio" />
+  <a href="https://sixto-arrejin.vercel.app/en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=briefcase&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:arrejinsixto@gmail.com">
@@ -31,20 +31,20 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 
 ---
 
-### 🧑‍💻 En qué ando trabajando
+### 🧑‍💻 What I'm working on
 
-*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: Co-fundé y desarrollo una plataforma móvil diseñada para simplificar y automatizar la organización de salidas grupales y planes de ocio entre amigos. La app sincroniza las disponibilidades y preferencias de los integrantes mediante algoritmos de recomendación inteligentes y, en paralelo, ofrece un canal B2B que conecta a comercios y eventos locales directamente con grupos listos para salir y consumir.
-    *   *Sitio oficial:* [datebox.com.ar](https://datebox.com.ar)
-    *   *Stack:* React Native, Expo, TypeScript, Hono (desplegado en Cloudflare Workers), Supabase.
+*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: I co-founded and develop a mobile platform designed to simplify and automate group outings and leisure coordination among friends. The app synchronizes users' availabilities and preferences using smart recommendation algorithms, and simultaneously features a B2B channel that connects local businesses and events directly with groups ready to go out and spend.
+    *   *Official website:* [datebox.com.ar](https://datebox.com.ar)
+    *   *Stack:* React Native, Expo, TypeScript, Hono (deployed on Cloudflare Workers), Supabase.
 
 > [!NOTE]
-> ♟️ **Capricho Express de Fin de Semana:** Hace poco implementé por pura diversión y necesidad personal **[Chess Study](https://github.com/SixtoArrejin/chess-study)** ([web en producción](https://chess-study.vercel.app)). Es una herramienta web minimalista de pantalla dividida (*split-screen*) pensada para estudiantes de ajedrez, que sincroniza la lectura de libros en PDF con un tablero de análisis interactivo en tiempo real para evitar estar alternando pestañas mientras analizas las partidas.
+> ♟️ **Weekend Side Project:** Recently, purely for fun and personal utility, I implemented **[Chess Study](https://github.com/SixtoArrejin/chess-study)** ([live web application](https://chess-study.vercel.app)). It is a minimalist split-screen web utility designed for chess students, syncing PDF book reading with an interactive chess analysis board in real time to avoid constant tab-switching while studying.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
-*   **Lenguajes:**
+*   **Languages:**
     ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
     ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
     ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
 
-*   **Backend & Bases de Datos:**
+*   **Backend & Databases:**
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
     ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
     ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
@@ -78,20 +78,20 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=SixtoArrejin&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Sixto" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SixtoArrejin&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=SixtoArrejin&show_icons=true&theme=tokyonight" alt="Sixto's GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SixtoArrejin&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SixtoArrejin&theme=tokyonight" alt="Racha de commits en GitHub" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=SixtoArrejin&theme=tokyonight" alt="GitHub Streak Stats" width="97%" />
 </p>
 
 ---
 
-### 🐍 El juego de las contribuciones (Snake Game)
+### 🐍 The Contribution Game (Snake Game)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SixtoArrejin/SixtoArrejin/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
@@ -99,11 +99,11 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 
 ---
 
-### 📬 Conectemos
+### 📬 Connect with me
 
-Si querés charlar sobre desarrollo de software, ajedrez, o tenés alguna propuesta interesante, no dudes en contactarme:
+If you want to talk about software development, chess, or have an interesting proposal, feel free to reach out:
 
 *   💼 **LinkedIn:** [in/sixto-arrejin](https://linkedin.com/in/sixto-arrejin/)
-*   🌐 **Portafolio Web:** [sixto-arrejin.vercel.app](https://sixto-arrejin.vercel.app/es)
-*   📧 **Correo Electrónico:** [arrejinsixto@gmail.com](mailto:arrejinsixto@gmail.com)
+*   🌐 **Web Portfolio:** [sixto-arrejin.vercel.app](https://sixto-arrejin.vercel.app/en)
+*   📧 **Email:** [arrejinsixto@gmail.com](mailto:arrejinsixto@gmail.com)
 *   📸 **Instagram:** [@chano_arrejin](https://www.instagram.com/chano_arrejin/)
