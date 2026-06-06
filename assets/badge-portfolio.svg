@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="28" viewBox="0 0 105 28">
+  <rect width="105" height="28" rx="14" fill="#1a1a1a"/>
+  <svg x="12" y="7" width="14" height="14" viewBox="0 0 24 24" fill="#FFFFFF">
+    <path d="M20 6h-4V4c0-1.11-.89-2-2-2h-4c-1.11 0-2 .89-2 2v2H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-6 0h-4V4h4v2z"/>
+  </svg>
+  <text x="32" y="18" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12" font-weight="bold">Portafolio</text>
+</svg>
