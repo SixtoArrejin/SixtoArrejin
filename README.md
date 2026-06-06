@@ -1,7 +1,3 @@
-<p align="center">
-  <b>Español 🇪🇸</b> | <a href="./README-en.md">English 🇺🇸</a>
-</p>
-
 # Sixto Feliciano Arrejin
 
 <img src="./assets/profile-lofi.png" align="right" width="280" alt="Sixto Feliciano Arrejin Lofi Pixel Art" />
@@ -9,7 +5,7 @@
 ### 👋 ¡Hola! Soy Sixto Feliciano Arrejin
 **Desarrollador Full Stack & Ingeniero en Sistemas de Información**
 
-Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el desarrollo dentro del ecosistema de **JavaScript** y **TypeScript** (tanto para entornos web como mobile), en el modelado de bases de datos relacionales y en la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
+Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el ecosistema de **JavaScript** y **TypeScript** (tanto para entornos web como mobile), en el modelado de bases de datos relacionales y en la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
 
 Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el fortalecimiento de la cultura DevOps.
 
@@ -33,12 +29,12 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 
 ### 🧑‍💻 En qué ando trabajando
 
-*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: Co-fundé y desarrollo una plataforma móvil diseñada para simplificar y automatizar la organización de salidas grupales y planes de ocio entre amigos. La app sincroniza las disponibilidades y preferencias de los integrantes mediante algoritmos de recomendación inteligentes y, en paralelo, ofrece un canal B2B que conecta a comercios y eventos locales directamente con grupos listos para salir y consumir.
+*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: Co-fundé y desarrollo una plataforma móvil diseñada para simplificar y automatizar la organización de salidas sociales entre grupos de amigos. La app sincroniza las disponibilidades y preferencias de los integrantes mediante algoritmos de recomendación inteligentes y, en paralelo, ofrece un canal B2B que conecta a comercios y eventos locales directamente con grupos listos para salir y consumir.
     *   *Sitio oficial:* [datebox.com.ar](https://datebox.com.ar)
     *   *Stack:* React Native, Expo, TypeScript, Hono (desplegado en Cloudflare Workers), Supabase.
 
 > [!NOTE]
-> ♟️ **Capricho Express de Fin de Semana:** Hace poco implementé por pura diversión y necesidad personal **[Chess Study](https://github.com/SixtoArrejin/chess-study)** ([web en producción](https://chess-study.vercel.app)). Es una herramienta web minimalista de pantalla dividida (*split-screen*) pensada para estudiantes de ajedrez, que sincroniza la lectura de libros en PDF con un tablero de análisis interactivo en tiempo real para evitar estar alternando pestañas mientras analizas las partidas.
+> ♟️ **Capricho Express de Fin de Semana:** Hace poco implementé por pura diversión y necesidad personal **[Chess Study](https://github.com/SixtoArrejin/chess-study)** ([web en producción](https://chess-study.vercel.app)). Es una herramienta web minimalista de pantalla dividida (*split-screen*) pensada para estudiantes de ajedrez, que sincroniza la lectura de libros en PDF con un tablero de análisis digital en tiempo real para evitar estar alternando pestañas mientras analizas las partidas.
 
 ---
 
@@ -88,22 +84,3 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SixtoArrejin&theme=tokyonight" alt="Racha de commits en GitHub" width="97%" />
 </p>
-
----
-
-### 🐍 El juego de las contribuciones (Snake Game)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SixtoArrejin/SixtoArrejin/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
-</p>
-
----
-
-### 📬 Conectemos
-
-Si querés charlar sobre desarrollo de software, ajedrez, o tenés alguna propuesta interesante, no dudes en contactarme:
-
-*   💼 **LinkedIn:** [in/sixto-arrejin](https://linkedin.com/in/sixto-arrejin/)
-*   🌐 **Portafolio Web:** [sixto-arrejin.vercel.app](https://sixto-arrejin.vercel.app/es)
-*   📧 **Correo Electrónico:** [arrejinsixto@gmail.com](mailto:arrejinsixto@gmail.com)
-*   📸 **Instagram:** [@chano_arrejin](https://www.instagram.com/chano_arrejin/)
