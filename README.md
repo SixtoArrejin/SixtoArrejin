@@ -3,11 +3,11 @@
 <img src="./assets/profile-lofi.png" align="right" width="280" alt="Sixto Feliciano Arrejin Lofi Pixel Art" />
 
 ### 👋 ¡Hola! Soy Sixto Feliciano Arrejin
-**Ingeniero en Sistemas de Información & Desarrollador Full Stack**
+**Desarrollador Full Stack & Ingeniero en Sistemas de Información**
 
-Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el desarrollo con **JavaScript** y **TypeScript** (React, React Native, Node.js), modelado de datos relacionales y la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
+Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el ecosistema de **JavaScript** y **TypeScript** (tanto para desarrollos web como mobile), en el modelado de bases de datos relacionales y en la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
 
-Me apasiona el desarrollo de producto, optimizar flujos de CI/CD, contenerización y observabilidad, siempre con el foco puesto en entregar valor rápido mediante metodologías ágiles como Scrum.
+Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el fortalecimiento de la cultura DevOps.
 
 📍 **Corrientes, Argentina** | 💼 Disponible para trabajo remoto
 
@@ -29,7 +29,7 @@ Me apasiona el desarrollo de producto, optimizar flujos de CI/CD, contenerizaci�
 
 ### 🧑‍💻 En qué ando trabajando
 
-*   **DateBox**: Estoy desarrollando una plataforma móvil moderna (arquitectura monorepo) diseñada para resolver la organización de salidas sociales entre grupos de amigos. Permite sincronizar calendarios y preferencias mediante algoritmos de recomendación de actividades locales, e integra un modelo B2B para que comercios locales ofrezcan promociones directas.
+*   📦 **DateBox**: Estoy desarrollando una plataforma móvil moderna (arquitectura monorepo) diseñada para resolver la organización de salidas sociales entre grupos de amigos. Permite sincronizar calendarios y preferencias mediante algoritmos de recomendación de actividades locales, e integra un modelo B2B para que comercios locales ofrezcan promociones directas.
     *   **Stack:** *React Native, Expo, TypeScript, Hono (desplegado en Cloudflare Workers), Supabase (PostgreSQL, Realtime, Storage, Auth).*
 
 > [!NOTE]
@@ -76,12 +76,20 @@ Me apasiona el desarrollo de producto, optimizar flujos de CI/CD, contenerizaci�
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SixtoArrejin&theme=tokyonight" alt="Estadísticas de Perfil de Sixto" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=SixtoArrejin&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub de Sixto" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SixtoArrejin&theme=tokyonight" alt="Lenguajes más usados" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SixtoArrejin&theme=tokyonight" alt="Racha de commits en GitHub" width="97%" />
+</p>
+
+---
+
+### 🎮 Mi Actividad en Juego (Snake)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SixtoArrejin/SixtoArrejin/output/github-contribution-grid-snake.svg" alt="Snake Game" width="100%" />
 </p>
 
 ---
