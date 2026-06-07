@@ -19,7 +19,7 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
 
 ### 🧑‍💻 En qué ando trabajando
 
-*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: Co-fundé y desarrollo una plataforma móvil diseñada para simplificar y automatizar la organización de salidas sociales entre grupos de amigos. La app sincroniza las disponibilidades y preferencias de los integrantes mediante algoritmos de recomendación inteligentes y, en paralelo, ofrece un canal B2B que conecta a comercios y eventos locales directamente con grupos listos para salir y consumir.
+*   📦 **[Datebox](https://github.com/Asymmetric-Devs/datebox)**: Me encuentro desarrollando una aplicación móvil diseñada para simplificar y automatizar la organización de salidas sociales entre grupos de amigos. La app sincroniza las disponibilidades y preferencias de los integrantes mediante algoritmos de recomendación inteligentes y, en paralelo, ofrece un canal B2B que conecta a comercios y eventos locales directamente con grupos listos para salir y consumir.
     *   *Sitio oficial:* [datebox.com.ar](https://datebox.com.ar)
     *   *Stack:* React Native, Expo, TypeScript, Hono (desplegado en Cloudflare Workers), Supabase.
 
