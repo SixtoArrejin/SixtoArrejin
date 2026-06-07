@@ -22,7 +22,7 @@ Me apasiona el desarrollo de producto, la optimización de flujos de CI/CD y el 
     *   *Sitio oficial:* [datebox.com.ar](https://datebox.com.ar)
 
 > [!NOTE]
-> ♟️ **Capricho Express de Fin de Semana:** Hace poco implementé por pura diversión y necesidad personal **[Chess Study](https://chess-study.vercel.app)**. Es una herramienta web minimalista de pantalla dividida (*split-screen*) pensada para estudiantes de ajedrez, que sincroniza la lectura de libros en PDF con un tablero de análisis digital en tiempo real para evitar estar alternando pestañas mientras analizas las partidas.
+> ♟️ **Capricho Express de Fin de Semana:** Hace poco implementé por pura diversión y necesidad personal **[Chess Study](https://my-chess-study.vercel.app)**. Es una herramienta web minimalista de pantalla dividida (*split-screen*) pensada para estudiantes de ajedrez, que sincroniza la lectura de libros en PDF con un tablero de análisis digital en tiempo real para evitar estar alternando pestañas mientras analizas las partidas.
 
 ---
 
