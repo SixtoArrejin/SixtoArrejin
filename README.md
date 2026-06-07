@@ -1,8 +1,7 @@
-# Sixto Feliciano Arrejin
+## 👋 ¡Hola! Soy Sixto Feliciano Arrejin
 
 <img src="./assets/profile-lofi.png" align="right" width="280" alt="Sixto Feliciano Arrejin Lofi Pixel Art" />
 
-### 👋 ¡Hola! Soy Sixto Feliciano Arrejin
 **Desarrollador Full Stack & Ingeniero en Sistemas de Información**
 
 Soy un desarrollador Full Stack con más de 3 años de experiencia en el diseño y construcción de soluciones web y móviles. Me especializo en el ecosistema de **JavaScript** y **TypeScript** (tanto para entornos web como mobile), en el modelado de bases de datos relacionales y en la adopción de prácticas DevOps para crear arquitecturas eficientes, seguras y escalables.
